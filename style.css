@@ -1,0 +1,46 @@
+#divInput, #divBotones, #divResult, #divMain {
+    border: 5px solid aquamarine;
+    margin: auto;
+}
+
+#divInput {
+    width: 175px;
+    height: 43px;
+}
+
+#divBotones, #divResult {
+    text-align: center;
+    width: 175px;
+    height: 90px;
+}
+
+#divResult {
+    width: 180px;
+    height: 40px;
+}
+
+#divMain {
+    width: 500px;
+    height: 280px;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+#btnSuma, #btnResta, #btnMul, #btnDiv {
+    width: 85px;
+    height: 43px;
+    background-color: white;
+    font-size: 12px;
+}
+
+#input1, #input2, #inputResultado {
+    width: 85px;
+}
+
+#btnLimpiar {
+    background-color: white;
+    width: 80px;
+}
